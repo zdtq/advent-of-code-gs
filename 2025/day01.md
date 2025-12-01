@@ -12,7 +12,7 @@ _(Input expected in A:A)_
   i,MOD(e-m,c),
   {
    SUM(N(e=0));
-   SUM(1+INT((ABS(m)-IF(i=0,c,IF(SIGN(m)=1,c-i,i)))/c))
+   SUM(1+INT((ABS(m)-IF(i=0,c,IF(m>0,c-i,i)))/c))
   }
 )) 
 ```
