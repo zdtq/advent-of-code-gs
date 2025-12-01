@@ -11,6 +11,15 @@ To use the formulas on your input:
 - Copy the puzzle input.
     - If the formula expects the input in `A:A` click once on cell `A1` and paste the input as _values only_ (<kbd>Ctrl</kbd>+<kbd>⇧</kbd>+<kbd>V</kbd>).
     - If the formula expects the input in cell `A1` double click on cell `A1` and paste (<kbd>Ctrl</kbd>+<kbd>V</kbd>) the input.
+ 
+## 2025 (☆2)
+
+| **01~05** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2025/day01.md)  |  | | | |
+| :- | :- | :- | :- | :- | :- |
+| **06~10** | |  | |  |  |
+| **11~15** | |  | |  |
+| **16~20** |  |  |  | |  |
+| **21~25** |  | |  | |  |
 
 ## 2024 (☆27)
 
