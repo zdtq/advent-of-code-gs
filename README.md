@@ -12,28 +12,28 @@ To use the formulas on your input:
     - If the formula expects the input in `A:A` click once on cell `A1` and paste the input as _values only_ (<kbd>Ctrl</kbd>+<kbd>⇧</kbd>+<kbd>V</kbd>).
     - If the formula expects the input in cell `A1` double click on cell `A1` and paste (<kbd>Ctrl</kbd>+<kbd>V</kbd>) the input.
  
-## 2025 (☆2)
+## 2025 (☆4)
 
-| **01~05** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2025/day01.md)  |  | | | |
+| **01~05** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day01.md)  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day02.md)  | | | |
 | :- | :- | :- | :- | :- | :- |
 | **06~10** | |  | |  |  | 
 | **11~12** | |  | n/a | n/a | n/a |
 
 ## 2024 (☆27)
 
-| **01~05** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day01.md)  | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day02.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day03.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day04.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day05.md) |
+| **01~05** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day01.md)  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day02.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day03.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day04.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day05.md) |
 | :- | :- | :- | :- | :- | :- |
-| **06~10** | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day06.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day07.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day08.md) |  |  |
-| **11~15** | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day11.md) |  | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day13.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day14.md) |  |
-| **16~20** |  | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day17.md) |  | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day19.md) |  |
-| **21~25** |  | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day22.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day23.md) | | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2024/day25.md) |
+| **06~10** | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day06.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day07.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day08.md) |  |  |
+| **11~15** | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day11.md) |  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day13.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day14.md) |  |
+| **16~20** |  | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day17.md) |  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day19.md) |  |
+| **21~25** |  | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day22.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day23.md) | | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2024/day25.md) |
 
 
 ## 2023 (☆28)
 
-| **01~05** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day01.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day02.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day03.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day04.md) | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day05a.md) |
+| **01~05** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day01.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day02.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day03.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day04.md) | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day05a.md) |
 | :- | :- | :- | :- | :- | :- |
-| **06~10** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day06.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day07.md) | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day08a.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day09.md) |  |
-| **11~15** | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day11.md) | | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day13.md) | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day14a.md) | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day15.md) |
-| **16~20** | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day16a.md) | | [**☆★**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day18.md) | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day19a.md) |  |
-| **21~25** | [**☆**](https://github.com/ziadti/advent-of-code-gs/blob/main/2023/day21a.md) | | | | |
+| **06~10** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day06.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day07.md) | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day08a.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day09.md) |  |
+| **11~15** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day11.md) | | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day13.md) | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day14a.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day15.md) |
+| **16~20** | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day16a.md) | | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day18.md) | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day19a.md) |  |
+| **21~25** | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2023/day21a.md) | | | | |
