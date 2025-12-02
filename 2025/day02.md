@@ -6,7 +6,7 @@ _(Input expected in A1)_
 
 ```py
 =ARRAYFORMULA(LET(
-   r,WRAPROWS(SPLIT(A1,""-,""),2),
+   r,WRAPROWS(SPLIT(A1,"-,"),2),
    a,REPT(ROW(1:99999),2),
    i,UNIQUE(TOCOL(VSTACK(
         a,
