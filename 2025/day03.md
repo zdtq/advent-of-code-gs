@@ -10,20 +10,19 @@ _(Input expected in A:A)_
      c,100,
      s,SEQUENCE(c),
      0+REDUCE(
-         LAMBDA(i,CHOOSE(i,TOCOL(,1),,1,c-k)),
+         LAMBDA(i,CHOOSE(i,,1,c-k)),
          SEQUENCE(k),
          LAMBDA(T,_,LET(
            v,SORTN(VLOOKUP(
-               SEQUENCE(T(4)-T(3)+2,1,T(3)),
+               SEQUENCE(T(3)-T(2)+2,1,T(2)),
                {s,MID(a,s,1)},{1,2}
            ),1,,2,),
            LAMBDA(i,CHOOSE(i,
-             INDEX(v,1),
-             T(2)&INDEX(v,2),
+             T(1)&INDEX(v,2),
              1+INDEX(v,1),
-             1+T(4)
+             1+T(3)
            ))
-     )))(2)
+     )))(1)
    ))))
 ))
 ``` 
