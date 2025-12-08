@@ -29,11 +29,12 @@ _(Input expected in A:A)_
         gb, INDEX(g, bb),
         IF(ga=gb, cs, LET(
           nz, INDEX(z, ba) + INDEX(z, bb),
+          nza, IF((g=ga)+(g=gb), nz, z),
           pa, IF(i=1000, PRODUCT(SORTN(z, 3, 2, 1,)), INDEX(cs, 1, 3)),
           pb, IF(nz=n, INDEX(x, ba) * INDEX(x, bb), 0),
           HSTACK( 
             IF(g=gb, ga, g), 
-            IF((g=ga)+(g=gb), nz, z), 
+            nza, 
             {pa; pb}
           )
         ))
