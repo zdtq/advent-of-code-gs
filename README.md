@@ -16,8 +16,8 @@ To use the formulas on your input:
 
 | **01~05** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day01.md)  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day02.md)  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day03.md)| [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day04.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day05.md) |
 | :- | :- | :- | :- | :- | :- |
-| **06~10** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day06.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day07.md)  | |  |  | 
-| **11~12** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day08.md) |  | n/a | n/a | n/a |
+| **06~10** | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day06.md) | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day07.md)  | [**☆★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day08.md) |  |  | 
+| **11~12** |  |  | n/a | n/a | n/a |
 
 ## 2024 (☆27)
 
