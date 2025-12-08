@@ -15,7 +15,7 @@ _(Input expected in A:A)_
    z, INDEX(c,,3),
    d, (x - TOROW(x))^2 + (y - TOROW(y))^2 + (z - TOROW(z))^2,
    m, s < TOROW(s),
-   fd,  TOCOL(IF(m, d,), 1),
+   fd, TOCOL(IF(m, d,), 1),
    ba, TOCOL(IF(m, s,), 1),
    bb, TOCOL(IF(m, TOROW(s),), 1),  
    sd, SORTN({fd, ba, bb}, 10000, , 1, 1),  
