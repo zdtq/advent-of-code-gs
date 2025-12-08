@@ -10,7 +10,7 @@ _(Input expected in A:A)_
    r, TOCOL(A2:A,1),
    w, LEN(f),
    O, REDUCE(
-        LAMBDA(_, CHOOSE(_, 0, MID(A1, SEQUENCE(1, w), 1) = "S")),
+        LAMBDA(_, CHOOSE(_, 0, MID(f, SEQUENCE(1, w), 1) = "S")),
         r,
         LAMBDA(C, r, LET(
           sp, MID(r, SEQUENCE(1, w), 1) = "^",
