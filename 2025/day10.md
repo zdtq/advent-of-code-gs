@@ -9,7 +9,7 @@ _(Input expected in A:A)_
    p, SPLIT(REGEXREPLACE(a, "{.*",), "[]() "),
    d, INDEX(p,,1),
    i, SEQUENCE(LEN(d)) - 1,
-   t, SUM((MID(d, i+1, 1) = "#") * (2 ^ i)),    
+   t, SUM((MID(d, i+1, 1) = "#") * 2^i),    
    b, CHOOSECOLS(p, SEQUENCE(COLUMNS(p) - 1, 1, 2)),
    sm, SPLIT(TOCOL(b), ","),
    m, MMULT((sm <> "") * 2^sm, SEQUENCE(COLUMNS(sm)) ^ 0),
