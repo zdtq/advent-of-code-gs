@@ -12,11 +12,11 @@ To use the formulas on your input:
     - If the formula expects the input in `A:A` click once on cell `A1` and paste the input as _values only_ (<kbd>Ctrl</kbd>+<kbd>⇧</kbd>+<kbd>V</kbd>).
     - If the formula expects the input in cell `A1` double click on cell `A1` and paste (<kbd>Ctrl</kbd>+<kbd>V</kbd>) the input.
  
-## 2025 (☆18)
+## 2025 (☆19)
 
 | **01~05** | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day01.md)  | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day02.md)  | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day03.md)| [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day04.md) | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day05.md) |
 | :- | :- | :- | :- | :- | :- |
-| **06~10** | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day06.md) | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day07.md)  | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day08.md) | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day09.md) |  | 
+| **06~10** | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day06.md) | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day07.md)  | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day08.md) | [**★**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day09.md) | [**☆**](https://github.com/zdtq/advent-of-code-gs/blob/main/2025/day10.md) | 
 | **11~12** |  |  | — | — | — |
 
 ## 2024 (☆27)
