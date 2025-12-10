@@ -12,7 +12,7 @@ _(Input expected in A:A)_
    t, SUM((MID(d, i+1, 1) = "#") * (2 ^ i)),    
    b, CHOOSECOLS(p, SEQUENCE(COLUMNS(p) - 1, 1, 2)),
    sm, SPLIT(TOCOL(b), ","),
-   m, MMULT((sm <> "") * BITLSHIFT(1, sm), SEQUENCE(COLUMNS(sm)) ^ 0),
+   m, MMULT((sm <> "") * 2^sm, SEQUENCE(COLUMNS(sm)) ^ 0),
    BFS, LAMBDA(BFS, c, s, v,
      IF(OR(t=c), s,
        LET(
