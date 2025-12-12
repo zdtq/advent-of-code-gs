@@ -5,6 +5,6 @@ _(Input expected in A:A)_
 ```py
 =ROWS(QUERY(
    FILTER(SPLIT(A:A, "x: "), FIND("x", A:A)),
-   "where Col1/3*Col2/3 >= Col3+Col4+Col5+Col6+Col7+Col8"
+   "where Col1*Col2/9 >= Col3+Col4+Col5+Col6+Col7+Col8"
 ))
 ```
